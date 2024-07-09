@@ -1,0 +1,57 @@
+@page
+@model BettingStrategyModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Betting Strategy";
+}
+
+<div>
+    <h1> Betting Strategy </h1>
+
+	<form method="post">
+		@Html.AntiForgeryToken()
+
+		<div class="form-group">
+			<label for="baseBankroll">Base Bankroll:</label>
+			<input asp-for="baseBankroll" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="basicBet">Basic Bet:</label>
+			<input asp-for="basicBet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT1Bet">Over True 1 Bet:</label>
+			<input asp-for="OverT1Bet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT2Bet">Over True 2 Bet:</label>
+			<input asp-for="OverT2Bet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT3Bet">Over True 3 Bet:</label>
+			<input asp-for="OverT3Bet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT4Bet">Over True 4 Bet:</label>
+			<input asp-for="OverT4Bet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT5Bet">Over True 5 Bet:</label>
+			<input asp-for="OverT5Bet" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="OverT6Bet">Over True 6 Bet:</label>
+			<input asp-for="OverT6Bet" type="number" class="form-control" />
+		</div>
+
+		<button type="submit" class="btn btn-primary">Save Betting Settings</button>
+	</form>
+</div>

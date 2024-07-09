@@ -1,0 +1,43 @@
+@page
+@model SimulationModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Simulation";
+}
+
+<div>
+    <h1>Simulation</h1>
+	<p> Make sure to set correct game rules and betting strategy before simulating.</p>
+
+
+	<form method="post">
+		@Html.AntiForgeryToken()
+
+		<div class="form-group">
+			<label for="baseBankroll">Amount of simulations</label>
+			<input asp-for="amountOfSimulations" type="number" class="form-control" />
+		</div>
+
+		<div class="form-group">
+			<label for="basicBet">Max amount of games in single simulation</label>
+			<input asp-for="maxGamesInSimulation" type="number" class="form-control" />
+		</div>
+
+		<button type="submit" class="btn btn-primary">Run simulation!</button><br>
+	</form>
+
+	<br>
+	<h2>Results:</h2>
+	Wins: @Model.wins <br>
+	Double Wins: @Model.doubleWins <br>
+	Loses: @Model.loses <br>
+	Double Loses: @Model.doubleLoses <br>
+	Pushes: @Model.pushes <br>
+	Surrenders: @Model.surrenders <br>
+	Blackjacks: @Model.blackjacks <br>
+
+	EV Per hand (?): @Model.expectedValuePerGame <br>
+	Final bankroll (?): @Model.averageFinalBankroll <br>
+	Anomaly - @Model.anomaly<br>
+</div>

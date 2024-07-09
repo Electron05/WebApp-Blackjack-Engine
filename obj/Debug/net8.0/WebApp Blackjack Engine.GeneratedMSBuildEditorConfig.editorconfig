@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp_Blackjack_Engine
+build_property.RootNamespace = WebApp_Blackjack_Engine
+build_property.ProjectDir = c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Betting/Betting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmV0dGluZ1xCZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/GameRules/GameRules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVJ1bGVzXEdhbWVSdWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Game/Game.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVxHYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Simulation/Simulation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2ltdWxhdGlvblxTaW11bGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/OEM/Projekt Dot Net/WebApp Blackjack Engine/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zj60j4bz8j

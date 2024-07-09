@@ -1,0 +1,37 @@
+@page
+@model GameRulesModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Game Rules";
+}
+
+<div>
+    <h1> Game Rules </h1>
+
+    <form method="post">
+        @Html.AntiForgeryToken()
+        <label>Can Double After Split:</label>
+        <input asp-for="canDoubleAfterSplit" type="checkbox" /><br />
+
+        <label>Can Surrender:</label>
+        <input asp-for="canSurrender" type="checkbox" /><br />
+
+        <label>Does Dealer Hit On Soft 17:</label>
+        <input asp-for="doesDealerHitOnSoft17" type="checkbox" /><br />
+
+        <label>Max hands after splitting:</label>
+        <input asp-for="numberOfAllowedHands" type="number" /><br />
+
+        <label>Number Of Decks In Shoe:</label>
+        <input asp-for="numberOfDecksInShoe" type="number" /><br />
+
+        <label>Deck Penetration (in decks played):</label>
+        <input asp-for="deckPenetration" type="number" /><br />
+
+        <label>Blackjack Payout:</label>
+        <select asp-for="blackjackPayoutTimesTen" asp-items="Model.BlackjackPayoutOptions"></select><br />
+
+        <button type="submit" class="btn btn-primary">Save Rules</button>
+    </form>
+</div>

@@ -1,0 +1,34 @@
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\appsettings.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\RunTimeResources\BasicStrategyH17.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.staticwebassets.runtime.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.exe
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.deps.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.runtimeconfig.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.dll
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\WebApp Blackjack Engine.pdb
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.csproj.AssemblyReference.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.AssemblyInfoInputs.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.AssemblyInfo.cs
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.csproj.CoreCompileInputs.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.RazorAssemblyInfo.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.RazorAssemblyInfo.cs
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets\msbuild.WebApp Blackjack Engine.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp Blackjack Engine.props
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp Blackjack Engine.props
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp Blackjack Engine.props
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\scopedcss\bundle\WebApp Blackjack Engine.styles.css
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\scopedcss\projectbundle\WebApp Blackjack Engine.bundle.scp.css
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp B.5934F6C9.Up2Date
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.dll
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\refint\WebApp Blackjack Engine.dll
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.pdb
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\WebApp Blackjack Engine.genruntimeconfig.cache
+c:\Users\OEM\Projekt Dot Net\WebApp Blackjack Engine\obj\Debug\net8.0\ref\WebApp Blackjack Engine.dll

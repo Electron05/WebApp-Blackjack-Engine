@@ -1,0 +1,20 @@
+﻿@page
+@model GameModel
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Test game";
+}
+
+<div>
+    <form method="post">
+        @Html.AntiForgeryToken()
+        <button type="submit">Play Game</button>
+    </form>
+    <h2>Game Log</h2>
+    <p>@Html.Raw(Model.Log.Replace("\n", "<br>"))</p>
+
+    <h2>Bankroll</h2>
+    <p>@Model.Bankroll</p>
+
+</div>
